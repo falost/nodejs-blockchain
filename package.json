@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-blockchain",
+  "version": "1.0.0",
+  "description": "《Node.js区块链开发2》网页浏览版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev book",
+    "docs:build": "vuepress build book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falost/nodejs-blockchain.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blockchain"
+  ],
+  "author": "falost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falost/nodejs-blockchain/issues"
+  },
+  "homepage": "https://github.com/falost/nodejs-blockchain#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
