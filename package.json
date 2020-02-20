@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev book",
-    "docs:build": "vuepress build book"
+    "docs:dev": "vuepress dev books",
+    "docs:build": "vuepress build books"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/falost/nodejs-blockchain#readme",
   "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "@vuepress/plugin-back-to-top": "^1.2.0",
     "vuepress": "^1.2.0"
   }
 }

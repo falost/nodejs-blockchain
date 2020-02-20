@@ -1,9 +1,6 @@
 # nodejs-blockchain
 《Node.js区块链开发2》网页浏览版本
 
-### 浏览地址
-[http://falost.cc/nodejs-blockchain/](http://falost.cc/nodejs-blockchain/)
-
 ## 授权说明
 
 本仓库内容已获得 imfly 本人授权和使用！[授权说明](https://github.com/imfly/blockchain-on-nodejs/issues/2)
@@ -24,7 +21,7 @@
 
 | Github Issue | DATM |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](https://raw.githubusercontent.com/imfly/blockchain-on-nodejs/master/styles/images/datm-ddn.jpeg) | 
+| [ddnlink/ddn/issues](https://github.com/ddnlink/ddn/issues) | ![](./assets/images/datm-ddn.jpeg) | 
 
 > PS：DATM 是基于DDN区块链的 分布式任务管理工具，大家可以在上面领取任务、讨论问题，任务完成，系统通过`智能合约`支付给你DDN
 
@@ -34,7 +31,7 @@
 
 | DDN基金会钱包转账地址 | DDN手机钱包扫码转账 |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| DLjrrVwnmMXstcAYVjcrpwyYb3kY1ehABU | ![](https://raw.githubusercontent.com/imfly/blockchain-on-nodejs/master/styles/images/foundation.png) | 
+| DLjrrVwnmMXstcAYVjcrpwyYb3kY1ehABU | ![](./assets/images/foundation.png) | 
 
 ## 贡献者（Contributors）
 
