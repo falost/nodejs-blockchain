@@ -4,6 +4,8 @@
 ### 浏览地址
 [http://falost.cc/nodejs-blockchain/](http://falost.cc/nodejs-blockchain/)
 
+### 源地址
+[https://github.com/imfly/blockchain-on-nodejs](https://github.com/imfly/blockchain-on-nodejs)
 ## 授权说明
 
 本仓库内容已获得 imfly 本人授权和使用！[授权说明](https://github.com/imfly/blockchain-on-nodejs/issues/2)
